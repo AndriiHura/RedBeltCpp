@@ -1,6 +1,6 @@
 
 #include <vector>
-#include "../PA1_ObkectsPool/test_runner.h"
+#include "test_runner.h"
 using namespace std;
 
 template <typename T>
@@ -44,7 +44,7 @@ public:
 
     void InsertAfter(Node* node, const T& value) {
         if (node == nullptr) {
-            PopFront();
+            PushFront(value);
         }
 
         else {
@@ -68,13 +68,17 @@ public:
         if (node == nullptr) {
             PopFront();
         }
-        if (node->next == nullptr) {
-            return;
+        else {
+            if (node->next == nullptr) {
+                return;
+            }
+            Node* tmp = node->next;
+            node->next = node->next->next;
+            tmp->next = nullptr;
+            delete tmp;
         }
-        Node* tmp = node->next;
-        node->next = node->next->next;
-        delete tmp;
     }
+
 
     Node* GetHead() { return head; }
     const Node* GetHead() const { return head; }
