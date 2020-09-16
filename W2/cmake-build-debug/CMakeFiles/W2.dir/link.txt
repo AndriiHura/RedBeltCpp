@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/W2.dir/main.cpp.o  -o W2 
+/usr/bin/c++  -g   CMakeFiles/W2.dir/CLionTestProject.cpp.o  -o W2 

@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/main.cpp">
+		<Unit filename="/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CLionTestProject.cpp">
 			<Option target="W2"/>
 		</Unit>
 		<Unit filename="/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CMakeLists.txt">

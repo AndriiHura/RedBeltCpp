@@ -143,32 +143,32 @@ W2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/build
 .PHONY : W2/fast
 
-main.o: main.cpp.o
+CLionTestProject.o: CLionTestProject.cpp.o
 
-.PHONY : main.o
+.PHONY : CLionTestProject.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/main.cpp.o
-.PHONY : main.cpp.o
+CLionTestProject.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/CLionTestProject.cpp.o
+.PHONY : CLionTestProject.cpp.o
 
-main.i: main.cpp.i
+CLionTestProject.i: CLionTestProject.cpp.i
 
-.PHONY : main.i
+.PHONY : CLionTestProject.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/main.cpp.i
-.PHONY : main.cpp.i
+CLionTestProject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/CLionTestProject.cpp.i
+.PHONY : CLionTestProject.cpp.i
 
-main.s: main.cpp.s
+CLionTestProject.s: CLionTestProject.cpp.s
 
-.PHONY : main.s
+.PHONY : CLionTestProject.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/main.cpp.s
-.PHONY : main.cpp.s
+CLionTestProject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/CLionTestProject.cpp.s
+.PHONY : CLionTestProject.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... W2"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... CLionTestProject.o"
+	@echo "... CLionTestProject.i"
+	@echo "... CLionTestProject.s"
 .PHONY : help
 
 

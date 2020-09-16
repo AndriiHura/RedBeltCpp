@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/W2.dir/main.cpp.o"
+  "CMakeFiles/W2.dir/CLionTestProject.cpp.o"
   "W2"
   "W2.pdb"
 )

@@ -77,27 +77,27 @@ include CMakeFiles/W2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/W2.dir/flags.make
 
-CMakeFiles/W2.dir/main.cpp.o: CMakeFiles/W2.dir/flags.make
-CMakeFiles/W2.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/W2.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/W2.dir/main.cpp.o -c /home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/main.cpp
+CMakeFiles/W2.dir/CLionTestProject.cpp.o: CMakeFiles/W2.dir/flags.make
+CMakeFiles/W2.dir/CLionTestProject.cpp.o: ../CLionTestProject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/W2.dir/CLionTestProject.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/W2.dir/CLionTestProject.cpp.o -c /home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CLionTestProject.cpp
 
-CMakeFiles/W2.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/W2.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/main.cpp > CMakeFiles/W2.dir/main.cpp.i
+CMakeFiles/W2.dir/CLionTestProject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/W2.dir/CLionTestProject.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CLionTestProject.cpp > CMakeFiles/W2.dir/CLionTestProject.cpp.i
 
-CMakeFiles/W2.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/W2.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/main.cpp -o CMakeFiles/W2.dir/main.cpp.s
+CMakeFiles/W2.dir/CLionTestProject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/W2.dir/CLionTestProject.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CLionTestProject.cpp -o CMakeFiles/W2.dir/CLionTestProject.cpp.s
 
 # Object files for target W2
 W2_OBJECTS = \
-"CMakeFiles/W2.dir/main.cpp.o"
+"CMakeFiles/W2.dir/CLionTestProject.cpp.o"
 
 # External object files for target W2
 W2_EXTERNAL_OBJECTS =
 
-W2: CMakeFiles/W2.dir/main.cpp.o
+W2: CMakeFiles/W2.dir/CLionTestProject.cpp.o
 W2: CMakeFiles/W2.dir/build.make
 W2: CMakeFiles/W2.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable W2"
