@@ -1,0 +1,5 @@
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/cmake-build-debug/CMakeFiles/PrinciplesOfCodeOptimization.dir
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/cmake-build-debug/CMakeFiles/PrinciplesOfCodeOptimization1.dir
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/cmake-build-debug/CMakeFiles/PrinciplesOfCodeOptimization2.dir

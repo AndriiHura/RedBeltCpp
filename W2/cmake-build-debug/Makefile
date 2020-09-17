@@ -170,6 +170,33 @@ CLionTestProject.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/CLionTestProject.cpp.s
 .PHONY : CLionTestProject.cpp.s
 
+PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.o: PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.o
+
+.PHONY : PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.o
+
+# target to build an object file
+PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.o
+.PHONY : PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.o
+
+PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.i: PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.i
+
+.PHONY : PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.i
+
+# target to preprocess a source file
+PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.i
+.PHONY : PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.i
+
+PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.s: PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.s
+
+.PHONY : PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.s
+
+# target to generate assembly for a file
+PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/W2.dir/build.make CMakeFiles/W2.dir/PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.s
+.PHONY : PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -182,6 +209,9 @@ help:
 	@echo "... CLionTestProject.o"
 	@echo "... CLionTestProject.i"
 	@echo "... CLionTestProject.s"
+	@echo "... PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.o"
+	@echo "... PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.i"
+	@echo "... PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.s"
 .PHONY : help
 
 

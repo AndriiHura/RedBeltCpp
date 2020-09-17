@@ -87,6 +87,9 @@
 		<Unit filename="/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CLionTestProject.cpp">
 			<Option target="W2"/>
 		</Unit>
+		<Unit filename="/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp">
+			<Option target="W2"/>
+		</Unit>
 		<Unit filename="/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PrinciplesOfCodeOptimization.dir/1_2ndRuleOfCodeOptimiation.cpp.o  -o PrinciplesOfCodeOptimization 

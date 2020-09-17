@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1_2ndRuleOfCodeOptimiation.cpp.dir/2_ImplementingOwnProfiler.cpp.o  -o 1_2ndRuleOfCodeOptimiation.cpp 

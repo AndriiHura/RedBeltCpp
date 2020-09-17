@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/W2.dir/CLionTestProject.cpp.o"
+  "CMakeFiles/W2.dir/PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.o"
   "W2"
   "W2.pdb"
 )

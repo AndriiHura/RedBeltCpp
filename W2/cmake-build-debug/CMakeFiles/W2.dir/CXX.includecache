@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/CLionTestProject.cpp
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp
 iostream
 -
 vector
+-
+string
+-
+chrono
 -
 

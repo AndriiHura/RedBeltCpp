@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/3_ImprovingProfiler.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+set
+-
+profile.h
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/profile.h
+
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/profile.h
+chrono
+-
+iostream
+-
+string
+-
+

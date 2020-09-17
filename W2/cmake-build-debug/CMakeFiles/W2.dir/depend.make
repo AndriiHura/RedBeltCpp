@@ -3,3 +3,5 @@
 
 CMakeFiles/W2.dir/CLionTestProject.cpp.o: ../CLionTestProject.cpp
 
+CMakeFiles/W2.dir/PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp.o: ../PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp
+

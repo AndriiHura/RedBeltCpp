@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andriihura/CLionProjects/CppBelts/RedBeltCpp/W2/PrinciplesOfCodeOptimization/2_ImplementingOwnProfiler.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+set
+-
+chrono
+-
+

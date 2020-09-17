@@ -3,4 +3,4 @@ project(W2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(W2 CLionTestProject.cpp)
+add_executable(W2 CLionTestProject.cpp PrinciplesOfCodeOptimization/1_2ndRuleOfOptimization.cpp)
